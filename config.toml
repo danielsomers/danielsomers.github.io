@@ -1,4 +1,4 @@
-baseurl = "danielsomers.com/"
+baseurl = "http://danielsomers.github.io/"
 languageCode = "en-US"
 title = "Daniel Somers"
 # Enable comments by entering your Disqus shortname
