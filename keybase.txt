@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/danielsomers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danielsomers.com
+  * I am danielsomers (https://keybase.io/danielsomers) on keybase.
+  * I have a public key ASDYh8s-jMxQIxOiQ5ViJFiHkcgL8ZW__7SxB-fmsZIUbAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120237a140ba5fe0bba67967a9fcb532f2b86bb65404b949f7e8e7f6291223277d10a",
+      "host": "keybase.io",
+      "kid": "0120d887cb3e8ccc502313a243956224588791c80bf195bfffb4b107e7e6b192146c0a",
+      "uid": "73cb76b66232c3dabcf163d110ae2819",
+      "username": "danielsomers"
+    },
+    "merkle_root": {
+      "ctime": 1508606302,
+      "hash": "0ef7dec2ef607fca1a9ff4745139a6052044aeab1ff23cc84bf7683dbe34244bc286da134c0e0354258b41be36cc02b8430de9ef0dbdee7e70805301abca9830",
+      "hash_meta": "77787291ce35cbdd202ffd3a20a96523f937b00d9b8a4f70ccd204e2d38b9b83",
+      "seqno": 1612585
+    },
+    "service": {
+      "hostname": "danielsomers.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508606321,
+  "expire_in": 504576000,
+  "prev": "ef7fa4c76c091a498f70655950ff5fa7e820fd75435367ddaf424ec2a0d40c43",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2IfLPozMUCMTokOVYiRYh5HIC/GVv/+0sQfn5rGSFGwKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjM3YTE0MGJhNWZlMGJiYTY3OTY3YTlmY2I1MzJmMmI4NmJiNjU0MDRiOTQ5ZjdlOGU3ZjYyOTEyMjMyNzdkMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDg4N2NiM2U4Y2NjNTAyMzEzYTI0Mzk1NjIyNDU4ODc5MWM4MGJmMTk1YmZmZmI0YjEwN2U3ZTZiMTkyMTQ2YzBhIiwidWlkIjoiNzNjYjc2YjY2MjMyYzNkYWJjZjE2M2QxMTBhZTI4MTkiLCJ1c2VybmFtZSI6ImRhbmllbHNvbWVycyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwODYwNjMwMiwiaGFzaCI6IjBlZjdkZWMyZWY2MDdmY2ExYTlmZjQ3NDUxMzlhNjA1MjA0NGFlYWIxZmYyM2NjODRiZjc2ODNkYmUzNDI0NGJjMjg2ZGExMzRjMGUwMzU0MjU4YjQxYmUzNmNjMDJiODQzMGRlOWVmMGRiZGVlN2U3MDgwNTMwMWFiY2E5ODMwIiwiaGFzaF9tZXRhIjoiNzc3ODcyOTFjZTM1Y2JkZDIwMmZmZDNhMjBhOTY1MjNmOTM3YjAwZDliOGE0ZjcwY2NkMjA0ZTJkMzhiOWI4MyIsInNlcW5vIjoxNjEyNTg1fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhbmllbHNvbWVycy5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA4NjA2MzIxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImVmN2ZhNGM3NmMwOTFhNDk4ZjcwNjU1OTUwZmY1ZmE3ZTgyMGZkNzU0MzUzNjdkZGFmNDI0ZWMyYTBkNDBjNDMiLCJzZXFubyI6MTQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAJk4ICfdnbfgLn+J/iy4xr4bVDnf18YbiugN8gQHF+D4pnv54amSdjIRNT0bI0QiYZgZSdZlmVdoS5KLhGWBoCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAyMRbowX3oFIh4DJCXhIVmEIO0cFHUl/xLVb7It2gp1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danielsomers
+
+==================================================================
